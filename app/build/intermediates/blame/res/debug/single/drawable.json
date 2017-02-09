@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\Android\\project\\TurnPage\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2.jpg",
+        "source": "D:\\Android\\project\\TurnPage\\app\\src\\main\\res\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "D:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page1.jpg",
+        "source": "D:\\Android\\project\\TurnPage\\app\\src\\main\\res\\drawable\\page1.jpg"
+    },
+    {
+        "merged": "D:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "D:\\Android\\project\\TurnPage\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page2.jpg",
+        "source": "D:\\Android\\project\\TurnPage\\app\\src\\main\\res\\drawable\\page2.jpg"
+    }
+]
