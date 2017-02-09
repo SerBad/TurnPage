@@ -5,40 +5,40 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="23855168729268"
+    timestamp="30430554724305"
     token="-2489006892912278783"
-    verifier="PARENT_CLASS_CHANGED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="38" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="8" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="D:\Android\project\TurnPage\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-        type="DEX" />
+        location="D:\Android\project\TurnPage\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="23664863153182"
+        timestamp="30106034136140"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Android\project\TurnPage\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="23855168729268"
-        verifier="PARENT_CLASS_CHANGED" >
+        timestamp="30430554724305"
+        verifier="COMPATIBLE" >
         <artifact
-            location="D:\Android\project\TurnPage\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
+            location="D:\Android\project\TurnPage\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

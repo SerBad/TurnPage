@@ -1,27 +1,21 @@
 #Internal package file, do not edit.
-#Thu Feb 09 15:25:50 CST 2017
+#Thu Feb 09 17:27:46 CST 2017
 2.base=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_
-5.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bg.jpg
 5.set=ANDROID_RESOURCE
 3.base=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_
-6.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
 2.set=ANDROID_RESOURCE
 4.base=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_
-7.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bg.jpg
-7.set=ANDROID_RESOURCE
-count=8
+count=6
 0.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
 5.base=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_
 4.set=ANDROID_RESOURCE
-6.base=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_
-1.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\page1.jpg
+1.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 1.set=ANDROID_RESOURCE
-7.base=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_
-2.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
-6.set=ANDROID_RESOURCE
+2.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bg2.jpg
 0.base=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\page2.jpg
+3.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 3.set=ANDROID_RESOURCE
 1.base=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bg2.jpg
+4.file=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
 0.set=ANDROID_RESOURCE
