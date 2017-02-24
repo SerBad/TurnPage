@@ -18,12 +18,7 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Scroller;
-
-/**
- * 主要实现一个类似翻书的效果
- *
- * @author Jinyun Hou
- */
+ 
 public class Pager extends View {
     private static final String TAG = "TurnPageView";
     private static final int ANIM_DURATION = 3000;

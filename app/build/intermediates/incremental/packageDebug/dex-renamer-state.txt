@@ -1,4 +1,4 @@
-#Thu Feb 09 17:22:22 CST 2017
+#Fri Feb 24 14:29:41 CST 2017
 base.0=D\:\\Android\\project\\TurnPage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b1ba8bb2abb0750fc15707b37d07f2c47065200d
 renamed.1=classes.dex
 renamed.0=classes2.dex

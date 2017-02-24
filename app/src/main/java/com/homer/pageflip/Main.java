@@ -17,7 +17,7 @@ public class Main extends Activity {
         setContentView(pageView,new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
 
 
-        View view = getLayoutInflater().from(this).inflate(R.layout.sample_main, (ViewGroup) pageView.getRootView(), true);
+        View view = getLayoutInflater().from(this).inflate(R.layout.sample_main, null, false);
         //view.setLayoutParams(new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
         view.setDrawingCacheEnabled(true);
 
