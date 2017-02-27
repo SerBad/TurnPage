@@ -83,6 +83,7 @@ public class RainbowView extends View {
             public void onAnimationEnd(Animator animation) {
                 super.onAnimationEnd(animation);
                 invalidate();
+
             }
         });
 
