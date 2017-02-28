@@ -82,12 +82,13 @@ public class RainbowView extends View {
             @Override
             public void onAnimationEnd(Animator animation) {
                 super.onAnimationEnd(animation);
+
                 invalidate();
 
             }
         });
 
-        anim.start();
+         anim.start();
         //startAnimation();
     }
 
